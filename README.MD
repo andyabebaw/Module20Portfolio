@@ -2,7 +2,7 @@
 
 ## Description
 
-This project was built to create an employee tracker where you can view and edit roles, employees, and departments.
+This project was built to create a portfolio to display resume, contact info, about me, and projects info.
 
 ## Table of Contents (Optional)
 
@@ -12,20 +12,21 @@ This project was built to create an employee tracker where you can view and edit
 
 ## Installation
 
-1. Go To https://github.com/andyabebaw/EmployeeTracker
+1. Go To https://github.com/andyabebaw/Module20Portfolio
 2. Copy the Git clone link using SSH.
 3. In terminal on your local device, clone the repository using Git clone.
 4. Open in Visual Studio.
 
 ## Usage
 
-This app can be used to view/edit employees, departments, and roles.
+This app can be used to view resume, contact info, about me, and projects info.
 
 ## Required Features
 
-- Add roles departments and employees
-- display tables for roles departments and employees
-- update an employees role
+- Clickable project links for github and live site
+- downloadable resume
+- contact me page
+-about me page with image
 
 
 ## How to Contribute
